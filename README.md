@@ -1,3 +1,5 @@
+# Old App from Fork. 
+
 # OpenDroneID Android receiver application
 
 This project provides the source codes for an example receiver implementation for OpenDroneID Bluetooth, WiFi NAN (Neighbor Aware Network) and WiFi Beacon signals for Android phones.
